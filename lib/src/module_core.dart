@@ -1,0 +1,3 @@
+class ModuleCore {
+  const ModuleCore();
+}
